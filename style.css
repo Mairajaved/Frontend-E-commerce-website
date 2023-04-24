@@ -13,7 +13,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: #003d29;
+  background-color: #000;
 }
 .top-icons {
   margin-left: 20px;
@@ -113,7 +113,7 @@
 .my-container {
   display: block;
   width: 100%;
-  background-color: #f5d5e1;
+  background-color: grey;
 }
 .my-div {
   margin: 50px;
@@ -192,7 +192,7 @@
   cursor: pointer;
   border-radius: 50%;
   display: flex;
-  background-color: #003d29;
+  background-color: #000;
 }
 
 .arrow img {
@@ -201,4 +201,13 @@
   width: 20px;
   height: 20px;
   z-index: 1;
+}
+/* AOS animation */
+[data-aos] {
+  transition-duration: 1s;
+}
+
+[data-aos].aos-animate {
+  opacity: 1;
+  transform: translate(0);
 }
