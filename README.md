@@ -20,7 +20,3 @@ The website includes the following features:
 #### live hosted
 <p> To visit website you can click the link which is given below: </p>
 [link](https://mairajaved.github.io/Frontend-E-commerce-website/)
-<<<<<<< HEAD
-=======
-https://mairajaved.github.io/Frontend-E-commerce-website/
->>>>>>> origin/master
