@@ -1,5 +1,6 @@
 # Shop Cart
 <p>This is a website I built using HTML, CSS, and Bootstrap 5mnamed "Shop Cart". The website is a simple one-page layout that showcases some of my personal projects and skills. The design is responsive and mobile-friendly, so it looks good on any device.</p>
+
 ## Technologies Used
 <p>The website was built using the following technologies:</p> 
 
@@ -18,3 +19,8 @@ The website includes the following features:
 
 #### live hosted
 <p> To visit website you can click the link which is given below: </p>
+[link](https://mairajaved.github.io/Frontend-E-commerce-website/)
+<<<<<<< HEAD
+=======
+https://mairajaved.github.io/Frontend-E-commerce-website/
+>>>>>>> origin/master
